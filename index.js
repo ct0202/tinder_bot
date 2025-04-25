@@ -3,7 +3,7 @@ const express = require('express');
 const app = express();
 
 // Настройки бота
-const token = '7577559406:AAG274SvIrBgA2akl4BlPTODsmmSyejoFPs';
+const token = '';
 const bot = new TelegramBot(token);
 
 // URL вашего Mini App
